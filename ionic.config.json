@@ -1,0 +1,7 @@
+{
+  "name": "mkr1_zamrii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
